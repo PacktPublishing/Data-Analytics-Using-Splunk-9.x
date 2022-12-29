@@ -1,1 +1,1 @@
-# Data Analytics using Splunk 9.x
+# Data Analytics Using Splunk 9.x
