@@ -1,6 +1,6 @@
 # Data Analytics Using Splunk 9.x. 
 
-<a href="https://m.media-amazon.com/images/I/61wDoZcBRAL.jpg"><img src="" alt="Data Analytics Using Splunk 9.x. " height="256px" align="right"></a>
+<a href="https://www.amazon.in/Data-Analytics-Using-Splunk-9-x/dp/1803249412/ref=sr_1_1?keywords=Data+analytics+using+splunk+9.x&qid=1673334110&sr=8-1"><img src="https://m.media-amazon.com/images/I/41QHUNhfiKL._SX404_BO1,204,203,200_.jpg" alt="Data Analytics Using Splunk 9.x. " height="256px" align="right"></a>
 
 This is the code repository for [Data Analytics Using Splunk 9.x. ](https://www.amazon.in/Data-Analytics-Using-Splunk-9-x/dp/1803249412/ref=sr_1_1?keywords=Data+analytics+using+splunk+9.x&qid=1673334110&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781801076012), published by Packt.
 
@@ -46,5 +46,8 @@ With the following software and hardware list you can run all code files present
 *  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
-**Dr. Nadine Shillingford **
+** Dr. Nadine Shillingford **
 is a certified Splunk Architect with 10 years of security consulting experience. She has installed, managed, and configured large-scale and large-volume Splunk deployments in the healthcare, retail, insurance, and federal spaces. In addition, Dr. Shillingford has teaching experience at the undergraduate and graduate levels. Dr. Shillingford holds a Ph.D. in computer science from the University of Notre Dame. She is an artist and the mother of a teenage daughter.
+
+
+
