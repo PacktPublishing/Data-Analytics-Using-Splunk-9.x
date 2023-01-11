@@ -58,9 +58,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products
-*Hands-On Data Analysis with Pandas - Second Edition [[Packt]](https://www.packtpub.com/product/hands-on-data-analysis-with-pandas-second-edition/9781800563452?utm_source=github&utm_medium=repository&utm_campaign=9781800563452) [[Amazon]](https://www.amazon.com/dp/1800563450)
+* Hands-On Data Analysis with Pandas - Second Edition [[Packt]](https://www.packtpub.com/product/hands-on-data-analysis-with-pandas-second-edition/9781800563452?utm_source=github&utm_medium=repository&utm_campaign=9781800563452) [[Amazon]](https://www.amazon.com/dp/1800563450)
 
-*The Data Analysis Workshop [[Packt]](https://www.packtpub.com/product/the-data-analysis-workshop/9781839211386?utm_source=github&utm_medium=repository&utm_campaign=9781839211386) [[Amazon]](https://www.amazon.com/dp/1839211385)
+* The Data Analysis Workshop [[Packt]](https://www.packtpub.com/product/the-data-analysis-workshop/9781839211386?utm_source=github&utm_medium=repository&utm_campaign=9781839211386) [[Amazon]](https://www.amazon.com/dp/1839211385)
 
 ## Get to Know the Author
 **Dr. Nadine Shillingford**
