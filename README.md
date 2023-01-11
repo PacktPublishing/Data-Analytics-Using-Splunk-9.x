@@ -1,8 +1,8 @@
 # Data Analytics Using Splunk 9.x. 
 
-<a href="https://www.amazon.in/Data-Analytics-Using-Splunk-9-x/dp/1803249412/ref=sr_1_1?keywords=Data+analytics+using+splunk+9.x&qid=1673334110&sr=8-1"><img src="https://m.media-amazon.com/images/I/41QHUNhfiKL._SX404_BO1,204,203,200_.jpg" alt="Data Analytics Using Splunk 9.x. " height="256px" align="right"></a>
+<a href="https://www.amazon.com/dp/1803249412"><img src="https://m.media-amazon.com/images/I/41QHUNhfiKL._SX404_BO1,204,203,200_.jpg" alt="Data Analytics Using Splunk 9.x. " height="256px" align="right"></a>
 
-This is the code repository for [Data Analytics Using Splunk 9.x. ](https://www.amazon.in/Data-Analytics-Using-Splunk-9-x/dp/1803249412/ref=sr_1_1?keywords=Data+analytics+using+splunk+9.x&qid=1673334110&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781801076012), published by Packt.
+This is the code repository for [Data Analytics Using Splunk 9.x. ](https://www.amazon.com/dp/1803249412), published by Packt.
 
 **A practical guide to implementing Splunk’s features for performing data analysis at scale**
 
