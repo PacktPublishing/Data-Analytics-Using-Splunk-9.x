@@ -19,6 +19,25 @@ This is the code repository for [Data Analytics Using Splunk 9.x. ](https://www.
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1803249412) today!
 
+## Instructions and Navigations
+
+All of the code is organized into folders. For example, Chapter04.
+
+ 
+
+The code will look like the following:
+
+```
+index=botsv1 earliest=0
+index=botsv1 sourcetype=iis http_referer=*
+index=botsv1 earliest=0 sourcetype=suricata
+| eval bytes=bytes_in+bytes_out
+index=botsv1 earliest=0 sourcetype=iis referer_domain=*
+| table _time, cs_Referer, referer_domain
+index=botsv1 earliest=0 sourcetype="WinEventLog:Security"
+| stats count by Account_Name
+```
+
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
@@ -27,6 +46,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 The book is for data analysts, Splunk users, and administrators who want to become well-versed in the data analytics services offered by Splunk 9. You need to have a basic understanding of Splunk fundamentals to get the most out of this book.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
+
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
